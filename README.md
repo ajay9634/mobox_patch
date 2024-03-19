@@ -27,6 +27,8 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 ```
 
 3. Type `mobox` in termux.
+# Installation Mobox patch(Extra files)
+1. unpack to d drive and run the bat file
 
 # Configuration
 ## Wine
